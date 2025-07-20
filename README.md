@@ -1,0 +1,1 @@
+This notebook models and simulates historical item price data, collected through the Old School RuneScape Wiki API.
