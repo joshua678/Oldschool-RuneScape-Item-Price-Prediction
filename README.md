@@ -1,1 +1,1 @@
-This notebook models and simulates historical item price data, collected through the Old School RuneScape Wiki API.
+This notebook models and simulates historical item price data, collected through the Old School RuneScape Wiki API. All training and simulation output is included in the notebook. Training data is not included.
