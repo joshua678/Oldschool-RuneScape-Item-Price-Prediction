@@ -2,12 +2,10 @@
 
 Forecasting Old School RuneScape (OSRS) Grand Exchange prices from historical trade data, with data collection, modeling, and simulation artifacts included.
 
-> This repository contains:
-> - A data collection script that pulls historical price/volume from the OSRS Wiki/Weird Gloop API.
-> - A modeling + simulation notebook with training outputs and backtests.
-> - Result images in `prediction_model/` for quick viewing in the repo UI.
-
----
+This repository contains:
+- A data collection script that pulls historical price/volume from the OSRS Wiki/Weird Gloop API.
+- A modeling + simulation notebook with training outputs and backtests.
+- Result images in `prediction_model/` for quick viewing in the repo UI.
 
 ## Repository Layout
 
@@ -22,8 +20,6 @@ LICENSE                       # Apache-2.0
 README.md
 ```
 
----
-
 ## Data Source
 
 I use the OSRS Wiki prices service (via Weird Gloop API), which aggregates real trades (partnered with RuneLite) and exposes historical and latest time-series endpoints.
@@ -32,8 +28,6 @@ I use the OSRS Wiki prices service (via Weird Gloop API), which aggregates real 
 - Weird Gloop API: https://api.weirdgloop.org/
 
 > Please be courteous to the API: include a descriptive `User-Agent` and avoid excessive request rates.
-
----
 
 ## Quick Start
 
@@ -79,8 +73,6 @@ jupyter notebook "Modelling & Simulating.ipynb"
 
 > See the notebook for exact architecture, hyperparameters, and experiments; all plots used in the README are saved under `prediction_model/`.
 
----
-
 ## Results & Figures
 
 <p align="center">
@@ -91,8 +83,6 @@ jupyter notebook "Modelling & Simulating.ipynb"
   <img src="prediction_model/equity_curve.png" alt="Backtest equity curve" width="850">
 </p>
 
----
-
 ## Reproducing Results
 
 1. Execute the notebook cells in order (they are designed to be self-contained).
@@ -101,8 +91,6 @@ jupyter notebook "Modelling & Simulating.ipynb"
 
 Exact bit-for-bit reproducibility on GPU isn’t possible in PyTorch because some CUDA/cuDNN operations are nondeterministic
 
----
-
 ## Configuration / Customization
 
 - **Item universe:** Edit `worthwhile_items.txt` to add/remove items.
@@ -110,20 +98,14 @@ Exact bit-for-bit reproducibility on GPU isn’t possible in PyTorch because som
 - **Windows/horizons:** Tune lookback window and forecast horizon in the modelling cells.
 - **Train/test splits:** Adjust split dates or proportions directly in the notebook.
 
----
-
 ## Known Limitations
 
 - Sudden content updates or economy interventions can shift time series regimes.
 - Realized PnL depends on trade frictions (tax, slippage) not fully captured by naive backtests.
 
----
-
 ## License
 
 Apache-2.0. See [`LICENSE`](LICENSE).
-
----
 
 ## Acknowledgements
 
