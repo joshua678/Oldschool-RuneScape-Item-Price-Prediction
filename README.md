@@ -61,8 +61,6 @@ jupyter notebook "Modelling & Simulating.ipynb"
 - The notebook contains the full workflow (loading data, preprocessing, model training, evaluation, and trade simulation/backtest).
 - Result plots are exported into `prediction_model/` for convenient viewing in the repo.
 
----
-
 ## Modeling Overview
 
 - **Framing:** Time series forecasting on OSRS Grand Exchange price (and volume) with rolling windows.
