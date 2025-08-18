@@ -1,0 +1,344 @@
+3rd age amulet: 11762310
+3rd age cloak: 23706248
+3rd age full helmet: 14775391
+3rd age kiteshield: 51641264
+3rd age mage hat: 17278012
+3rd age platebody: 136250626
+3rd age platelegs: 47147255
+3rd age range top: 14377908
+3rd age robe: 31737198
+3rd age robe top: 143842442
+3rd age wand: 107200283
+Abyssal bludgeon: 249241000
+Abyssal dagger: 14521738
+Abyssal dagger (p++): 18755392
+Abyssal whip: 141778000
+Accursed sceptre (au): 18631897
+Adamantite bar: 20730000
+Ahrim's armour set: 25388961
+Ahrim's robeskirt: 32015325
+Ahrim's robetop: 45073710
+Air battlestaff: 159588000
+Air orb: 14311000
+Amethyst: 45330853
+Amulet of eternal glory: 90109155
+Amulet of fury: 20189576
+Amulet of glory: 31917739
+Amulet of glory(6): 28040575
+Amulet of torture: 190134688
+Amylase crystal: 10813000
+Ancestral hat: 305707630
+Ancestral robe bottom: 797573808
+Ancestral robe top: 976588328
+Ancestral robes set: 1227478747
+Ancient godsword: 259255816
+Ancient wyvern shield: 87839373
+Anglerfish: 16520000
+Anguish ornament kit: 20814200
+Ankou mask: 37939269
+Ankou top: 80496586
+Ankou's leggings: 12238461
+Anti-venom(4): 19069070
+Anti-venom+(4): 30106000
+Antidote++(4): 25271186
+Aranea boots: 45494528
+Arcane sigil: 572155984
+Arcane spirit shield: 626303867
+Archers ring: 21038720
+Armadyl chainskirt: 255926768
+Armadyl chestplate: 341810680
+Armadyl crossbow: 368838488
+Armadyl godsword: 86506392
+Armadyl helmet: 85050480
+Armageddon cape fabric: 10892328
+Avantoe: 11564098
+Avantoe potion (unf): 15854159
+Avernic defender hilt: 300927768
+Awakener's orb: 47362300
+Bandos chestplate: 168524720
+Bandos godsword: 105267184
+Bandos tassets: 115017032
+Bastion potion(4): 25836790
+Battlestaff: 90409000
+Berserker necklace: 34483048
+Berserker ring: 39293208
+Bird nest (empty): 21712895
+Black chinchompa: 43164000
+Black dragon leather: 50243848
+Black dragonhide: 26400050
+Black mask: 12288254
+Blade of saeldor (inactive): 213395512
+Blighted ancient ice sack: 10965000
+Blood essence: 26519702
+Blood moon chestplate: 67300485
+Blood moon helm: 12783944
+Blood moon tassets: 137686065
+Blood shard: 107923928
+Bloodbark body: 11959679
+Bloodbark legs: 12405669
+Blue dragon leather: 19554060
+Blue dragonhide: 11715611
+Blue moon chestplate: 26944843
+Blue moon spear: 10146803
+Blue moon tassets: 58692730
+Bracelet of ethereum (uncharged): 45013772
+Brimstone ring: 24088328
+Bryophyta's staff (uncharged): 78024169
+Burning claw: 22848756
+Burning claws: 133054184
+Cactus spine: 10884650
+Cadantine: 11852605
+Cadantine blood potion (unf): 14132604
+Cadantine potion (unf): 24475971
+Chugging barrel (disassembled): 53543800
+Coconut: 31097000
+Combat bracelet: 13995855
+Craw's bow (u): 119757073
+Crushed nest: 86339000
+Crushed superior dragon bones: 16585217
+Crystal armour seed: 569128238
+Crystal key: 20006063
+Crystal tool seed: 131982893
+Crystal weapon seed: 11028632
+Dagannoth bones: 24353029
+Devout boots: 18335279
+Dexterous prayer scroll: 39271735
+Dharok's armour set: 44117000
+Dharok's greataxe: 32284170
+Dharok's platebody: 11554854
+Dharok's platelegs: 13954421
+Diamond: 17006000
+Diamond dragon bolts: 17571180
+Diamond dragon bolts (e): 38962000
+Diamond necklace: 13963136
+Dinh's bulwark: 111560592
+Divine bastion potion(4): 31228801
+Divine ranging potion(4): 12548000
+Divine super combat potion(4): 40830000
+Dragon arrow: 19426000
+Dragon arrow(p++): 10308562
+Dragon arrowtips: 18260000
+Dragon bolts: 35387000
+Dragon bolts (unf): 42328000
+Dragon bones: 23985000
+Dragon boots: 13443990
+Dragon claws: 550098664
+Dragon crossbow: 84241360
+Dragon dart: 32725000
+Dragon dart tip: 36960000
+Dragon full helm: 46117507
+Dragon harpoon: 10109185
+Dragon hunter crossbow: 360043184
+Dragon hunter lance: 492534736
+Dragon hunter wand: 50221211
+Dragon impling jar: 44595574
+Dragon kiteshield: 14766718
+Dragon knife: 18063850
+Dragon knife(p++): 16852708
+Dragon pickaxe: 30031080
+Dragon platebody: 10517486
+Dragon platelegs: 11279870
+Dragon plateskirt: 11276370
+Dragon warhammer: 188022552
+Dragonfire shield: 39742856
+Dragonfire ward: 116439392
+Dragonfruit sapling: 18558419
+Dragonstone: 29056384
+Dragonstone bolt tips: 10304669
+Dragonstone bolts: 11407000
+Dragonstone bracelet: 13832538
+Dual macuahuitl: 132669075
+Dwarf cannon set: 16636284
+Dwarf weed potion (unf): 20690000
+Earth battlestaff: 97076878
+Echo crystal: 25952856
+Eclectic impling jar: 75098682
+Eclipse atlatl: 42771060
+Eclipse moon chestplate: 17410039
+Eclipse moon tassets: 21494846
+Elder maul: 971355584
+Eldritch orb: 702780070
+Elysian sigil: 33740037
+Elysian spirit shield: 3379932064
+Enhanced crystal teleport seed: 87867400
+Enhanced crystal weapon seed: 243790206
+Eternal boots: 104250825
+Eternal crystal: 14957910
+Eternal gem: 14023731
+Extended anti-venom+(4): 14830710
+Extended super antifire(4): 24952280
+Fire battlestaff: 17047716
+Flared trousers: 11163068
+Fremennik kilt: 50173680
+Ghrazi rapier: 268826848
+Gilded armour set (lg): 13356050
+Gilded platebody: 10925564
+Gilded scimitar: 30147179
+Gourmet impling jar: 22292986
+Granite maul: 55983200
+Green dragon leather: 20969000
+Green dragonhide: 16367000
+Grimy avantoe: 11082015
+Grimy ranarr weed: 63646000
+Grimy snapdragon: 40670471
+Grimy toadflax: 12793678
+Grimy torstol: 11870482
+Guardian boots: 74479472
+Ham joint: 14547377
+Harmonised orb: 966379169
+Heavy ballista: 11989024
+Hydra bones: 11136635
+Hydra leather: 175854375
+Hydra's claw: 51459057
+Imbued heart: 213283879
+Inquisitor's great helm: 252894411
+Inquisitor's hauberk: 495134928
+Inquisitor's mace: 2131887280
+Inquisitor's plateskirt: 804773353
+Irit potion (unf): 12609741
+Justiciar armour set: 175258630
+Justiciar chestguard: 85203944
+Justiciar faceguard: 93508264
+Justiciar legguards: 69475329
+Karil's leathertop: 18296175
+Kodai insignia: 13888876
+Kodai wand: 898050576
+Kraken tentacle: 32094837
+Kwuarm: 10966758
+Kwuarm potion (unf): 13706280
+Lantadyme potion (unf): 13677152
+Larran's key: 38748021
+Lava dragon bones: 11336459
+Lightbearer: 18297304
+Mage's book: 26594325
+Magic fang: 25640985
+Magic logs: 12348000
+Magic longbow: 22860000
+Magic longbow (u): 10210000
+Magic sapling: 20729800
+Magic seed: 14162300
+Magpie impling jar: 30311753
+Mahogany plank: 28990000
+Malediction ward: 13519120
+Manta ray: 15840000
+Marble block: 44774724
+Masori body: 462011560
+Masori body (f): 807010560
+Masori chaps: 369194055
+Masori chaps (f): 637908984
+Masori mask: 71641424
+Masori mask (f): 159495040
+Master wand: 20050076
+Mystic smoke staff: 16136568
+Necklace of anguish: 190050208
+Nightmare staff: 475356968
+Ninja impling jar: 14378292
+Obsidian cape: 18092011
+Obsidian platebody: 10106550
+Obsidian platelegs: 19953306
+Occult ornament kit: 16292824
+Odium ward: 31908664
+Old school bond: 1475941900
+Onyx: 11990244
+Onyx bolt tips: 41324196
+Onyx bolts: 93074479
+Onyx bolts (e): 63469676
+Opal dragon bolts (e): 28258282
+Ornate maul handle: 64259800
+Osmumten's fang: 88071768
+Papaya fruit: 22314816
+Pegasian boots: 540049155
+Prayer potion(3): 12910000
+Prayer potion(4): 17726000
+Prayer regeneration potion(4): 40799921
+Primordial boots: 357049170
+Primordial crystal: 24425255
+Purple sweets: 54748568
+Ranarr potion (unf): 62590000
+Ranarr weed: 20840793
+Ranger boots: 264019620
+Rangers' tunic: 18594472
+Raw anglerfish: 21285000
+Raw shark: 10380000
+Red chinchompa: 11641000
+Red dragon leather: 29843000
+Red dragonhide: 26884000
+Regen bracelet: 49219991
+Ring of coins: 16291796
+Ring of endurance (uncharged): 38962733
+Ring of recoil: 12600000
+Ring of suffering: 188937328
+Ring of the gods: 16898464
+Robin hood hat: 10145256
+Ruby dragon bolts: 37950000
+Ruby dragon bolts (e): 39842000
+Ruby necklace: 13066665
+Rune dart tip: 12694000
+Rune pouch note: 57824200
+Runite bar: 123220000
+Runite ore: 46503000
+Sanfew serum(4): 30492000
+Sanguinesti staff (uncharged): 413429168
+Sapphire dragon bolts (e): 18640408
+Saradomin brew(3): 16606000
+Saradomin brew(4): 22534000
+Saradomin godsword: 272026088
+Saturated heart: 885924984
+Scythe of vitur (uncharged): 13838369418
+Serpentine helm (uncharged): 40821048
+Serpentine visage: 11614657
+Smoke battlestaff: 15429184
+Smouldering stone: 10780845
+Snapdragon: 25345758
+Snapdragon potion (unf): 81890000
+Spectral spirit shield: 418254784
+Spiked manacles: 10560304
+Staff of light: 33970031
+Staff of the dead: 48623642
+Stamina potion(4): 12896000
+Sunfire splinters: 14670000
+Super combat potion(4): 27560000
+Super restore(3): 12812112
+Super restore(4): 21356000
+Superior dragon bones: 166583331
+Tanzanite fang: 15786114
+Teak plank: 12259000
+Toadflax: 29472512
+Toadflax potion (unf): 32650000
+Tormented bracelet: 189769984
+Tormented synapse: 234247005
+Torstol: 20865552
+Torva full helm: 1604949280
+Torva full helm (damaged): 23808988
+Torva platebody: 2433526408
+Torva platebody (damaged): 12000000
+Torva platelegs: 1970121928
+Torva platelegs (damaged): 38250000
+Toxic blowpipe (empty): 55896144
+Toxic staff (uncharged): 104006920
+Tumeken's shadow (uncharged): 9248410016
+Twinflame staff: 57086680
+Twisted bow: 11927168408
+Twisted buckler: 110633632
+Uncharged toxic trident: 42378208
+Uncharged toxic trident (e): 75595767
+Uncut diamond: 22710000
+Uncut dragonstone: 27904598
+Urium remains: 17209902
+Ursine chainmace (u): 55992104
+Venator shard: 30652171
+Vial of blood: 67142218
+Viggora's chainmace (u): 45051978
+Virtus mask: 30873976
+Virtus robe bottom: 195915824
+Virtus robe top: 400210912
+Voidwaker: 3285609644
+Volatile orb: 241701037
+Water battlestaff: 48814034
+White berries: 12578949
+Wine of zamorak: 12616621
+Zamorak godsword: 130667816
+Zamorakian hasta: 17362008
+Zaryte vambraces: 597603888
+Zenyte shard: 10472486
+Zul-andra teleport: 10102713
